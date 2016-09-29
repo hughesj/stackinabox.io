@@ -37,7 +37,7 @@ It's planned to add further Docker images to this vagrant setup to support many 
 ````
     # stand up the OpenStack and UrbanCode environment
 	$: git clone https://github.com/stackinabox/stackinabox.io.git 
-	$: cd stackinabox.io/vagrant
+	$: cd stackinabox.io
 	$: vagrant up
 	....
 	==> opdk: Creating ucddb
